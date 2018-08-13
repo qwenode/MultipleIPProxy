@@ -8,4 +8,7 @@ php5.6 或以上
 
 
 ### 启动方式
+下载后解压, 执行 composer install
+
+然后
 php start.php start -d
