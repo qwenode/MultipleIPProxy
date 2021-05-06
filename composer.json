@@ -1,6 +1,8 @@
 {
   "require": {
-    "workerman/workerman": "^3.5"
-  }
+    "workerman/workerman": "^4.0"
+  },
+  "name": "qwenode/multipleipproxy",
+  "description": "workerman实现的多ip代理程序demo"
 }
 
